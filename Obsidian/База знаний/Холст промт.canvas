@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"298bb27754b950f8","x":-180,"y":-260,"width":540,"height":60,"type":"text","text":"Я продаю веб - фильтры для фотографий онлайн."},
+		{"id":"5575ef453f3ad56a","x":-80,"y":-400,"width":250,"height":60,"type":"text","text":"Текст"},
+		{"id":"2502fc6567ef076a","x":-540,"y":-400,"width":250,"height":60,"type":"text","text":"Категория текста"},
+		{"id":"700a9cf93ece1020","x":-180,"y":-140,"width":540,"height":60,"type":"text","text":"Можешь написать"},
+		{"type":"text","text":"письмо","id":"3f4b2162ad3694e0","x":-180,"y":-40,"width":540,"height":60},
+		{"id":"dfaef2fd40e02fad","x":-540,"y":-260,"width":250,"height":60,"type":"text","text":"Контекст"},
+		{"id":"ae0c059b47cf3cb8","x":-180,"y":60,"width":540,"height":60,"type":"text","text":"по"},
+		{"type":"text","text":"Тип текста","id":"bc08f88445ba5bd7","x":-540,"y":-40,"width":250,"height":60},
+		{"type":"text","text":"продаже моих фильтров","id":"64b618db294f87f6","x":-180,"y":160,"width":540,"height":60},
+		{"type":"text","text":"для моего клиента","id":"f242419b42bfe5a6","x":-180,"y":260,"width":540,"height":60},
+		{"type":"text","text":"Тема","id":"721726bd146c7276","x":-540,"y":160,"width":250,"height":60},
+		{"id":"73f8d314ab9e13c6","x":-180,"y":360,"width":540,"height":60,"type":"text","text":"с описание"},
+		{"type":"text","text":"Дополнительный контекст","id":"3bd729525aa4dfc6","x":-540,"y":260,"width":300,"height":60},
+		{"type":"text","text":"услуг и преимуществ","id":"8b36143ea00fb750","x":-180,"y":460,"width":540,"height":60},
+		{"type":"text","text":"предлагаемых","id":"243b8d9079aa32b4","x":-180,"y":560,"width":540,"height":60},
+		{"type":"text","text":"моим сервисом","id":"0d85e65f161566d0","x":-180,"y":660,"width":540,"height":60},
+		{"type":"text","text":"Преимущества","id":"9b2acc7e85a33c08","x":-540,"y":460,"width":300,"height":60},
+		{"type":"text","text":"Тема","id":"263b7cd5ee5a394c","x":-540,"y":660,"width":300,"height":60}
+	],
+	"edges":[
+		{"id":"9816d5216daeeafd","fromNode":"dfaef2fd40e02fad","fromSide":"right","toNode":"298bb27754b950f8","toSide":"left"},
+		{"id":"51977bab21c2ffcb","fromNode":"bc08f88445ba5bd7","fromSide":"right","toNode":"3f4b2162ad3694e0","toSide":"left"},
+		{"id":"5c45f72240b325c4","fromNode":"721726bd146c7276","fromSide":"right","toNode":"64b618db294f87f6","toSide":"left"},
+		{"id":"6db706225f13c67c","fromNode":"3bd729525aa4dfc6","fromSide":"right","toNode":"f242419b42bfe5a6","toSide":"left"},
+		{"id":"e6f09b894a258904","fromNode":"9b2acc7e85a33c08","fromSide":"right","toNode":"8b36143ea00fb750","toSide":"left"}
+	]
+}

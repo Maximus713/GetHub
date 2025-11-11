@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"Wow эффект","id":"ae6a4fea5c10c660","x":-360,"y":-200,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Приветствие","id":"53d17d9c44d38d78","x":-360,"y":-280,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Быстрый вход","id":"7601a41470b1f2ff","x":-360,"y":-360,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Атмосферно","id":"d5a44c32ebf4baa9","x":-360,"y":-440,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Вступление 10 - 20 сек.","id":"6412b0b9d3785700","x":-360,"y":-80,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Основная информация 2-3 мин.","id":"3e7662b7b21850d6","x":-80,"y":-80,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Офферы\\смыслы","id":"3af2250d40e1afb4","x":-80,"y":-200,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Обучение","id":"201834389eb26f1f","x":-80,"y":-280,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Поднятие лояльности","id":"fc7ce127c2bd2803","x":-80,"y":-360,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Концовка\\Призыв 10 - 20 сек.","id":"ccbdbca172f42808","x":200,"y":-80,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Оставить заявку","id":"b46881888b7e0e21","x":200,"y":-200,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Подписаться","id":"4345a37a6eab48ad","x":200,"y":-280,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Перейти по ссылке","id":"ebe4a8dc8c277209","x":200,"y":-360,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Перекинуть на другое видео","id":"25a9f537304b3a01","x":200,"y":-440,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[]
+}

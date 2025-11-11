@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"Тайминг","id":"e6dd3fc0b08a233f","x":-640,"y":-160,"width":160,"height":60,"color":"2"},
+		{"type":"text","text":"Содержание","id":"34fe00635adfb9e5","x":-640,"y":-260,"width":160,"height":60,"color":"4"},
+		{"type":"text","text":"О чем","id":"c7c6ea614d36e985","x":-360,"y":-260,"width":140,"height":60,"color":"4"},
+		{"type":"text","text":"15 сек.","id":"f90688d605f2f43a","x":-360,"y":-160,"width":140,"height":60,"color":"2"},
+		{"type":"text","text":"Отбивка","id":"b8f6278bfe81a88e","x":-200,"y":-260,"width":140,"height":60,"color":"4"},
+		{"type":"text","text":"5 мин.","id":"7e9961f4a0a02522","x":-40,"y":-160,"width":500,"height":60,"color":"2"},
+		{"type":"text","text":"Контент","id":"34c0f09e10379f0b","x":-40,"y":-260,"width":500,"height":60,"color":"4"},
+		{"type":"text","text":"2 сек.","id":"51aea4d31169ed96","x":-200,"y":-160,"width":140,"height":60,"color":"2"},
+		{"type":"text","text":"Призыв к действию","id":"e473306f806f650e","x":480,"y":-260,"width":240,"height":60,"color":"4"},
+		{"type":"text","text":"?","id":"5e14a5c50a5ff276","x":740,"y":-260,"width":240,"height":60,"color":"4"},
+		{"type":"text","text":"10 сек.","id":"93d06a395fce2552","x":480,"y":-160,"width":240,"height":60,"color":"2"},
+		{"type":"text","text":"? сек.","id":"dee592d8f6978770","x":740,"y":-160,"width":240,"height":60,"color":"2"}
+	],
+	"edges":[]
+}
