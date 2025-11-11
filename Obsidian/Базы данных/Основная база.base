@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.hasTag("Инфобизнес")
+    order:
+      - file.name
+      - file.tags

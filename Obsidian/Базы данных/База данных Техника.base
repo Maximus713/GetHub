@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.hasTag("tags", "Техника")
+views:
+  - type: table
+    name: Таблица
+    order:
+      - file.name
+      - file.tags
+    columnSize:
+      file.name: 369
+  - type: table
+    name: представление
+  - type: cards
+    name: Моточасы
+    cardSize: 140
+    image: note.Моточасы
+  - type: cards
+    name: Теги
+    image: note.tags
+    imageAspectRatio: 0.25
+    cardSize: 180
+    imageFit: ""
+  - type: table
+    name: представление 2
