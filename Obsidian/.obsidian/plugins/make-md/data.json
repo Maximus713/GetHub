@@ -1,0 +1,296 @@
+{
+  "filePreviewOnHover": false,
+  "markSans": true,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "inlineStylerColors": true,
+  "editorFlow": true,
+  "editorFlowStyle": "seamless",
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "spacesStickers": true,
+  "spacesDisablePatch": false,
+  "sidebarTabs": true,
+  "deleteFileOption": "trash",
+  "folderRank": {
+    "node": "",
+    "children": [
+      {
+        "node": "База знаний",
+        "children": [
+          {
+            "node": "000_Меню.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "010_ФОТО.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "020_БИЗНЕС.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "030_ТЕХНИКА.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "040_САДОВОДСТВО.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Aliases.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Obsidian как среда для базы знаний.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Zettelkasten.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Zotero.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Алгоритм написания теста.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Варианты использования ссылок.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Заметки по Zettelkasten.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Знание полезно только если оно в определенном контексте.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Иванов ИИ.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Как сделать заметки эффективнее.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Инстументы установки связей.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Назначение тегов.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Поиск в Obsidian.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Принципы Zettelkasten.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Мы учимся не когда потребляем, а когда создаем.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Осмысленное чтение.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Работа над текстом.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Разметка.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Связи через ссылки.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Связи в картотеке.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Ссылки в Obsidian.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Пользовательский CSS.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Ссылки.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Структура.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Теги.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "_Исходники",
+        "children": [
+          {
+            "node": "Pasted image 20221225230425.png",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Без названия",
+        "children": [],
+        "isFolder": true
+      },
+      {
+        "node": "Библиотека",
+        "children": [
+          {
+            "node": "Упражнение 2.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Уроки фотографии от А до Я.pdf",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Конспекты",
+        "children": [
+          {
+            "node": "00_ТЕМЫ.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Упражнения 1.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Без названия.canvas",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Входящие",
+        "children": [],
+        "isFolder": true
+      },
+      {
+        "node": "Шаблоны",
+        "children": [
+          {
+            "node": "GitHab.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Заметка с линиями.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "ФИО.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Шаблон ZK.md",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "Папка_3",
+        "children": [],
+        "isFolder": true
+      },
+      {
+        "node": "Вставка твита в Obsidian.md",
+        "children": [],
+        "isFolder": false
+      },
+      {
+        "node": "Съемка.md",
+        "children": [],
+        "isFolder": false
+      }
+    ],
+    "isFolder": true
+  },
+  "openFolders": [
+    "Категория_3/Папка_3",
+    "//Папка_3",
+    "//Шаблоны",
+    "//База знаний"
+  ],
+  "fileIcons": [],
+  "spaces": [
+    {
+      "section": "Категория_3",
+      "children": [
+        "Папка_3"
+      ],
+      "collapsed": false
+    }
+  ],
+  "vaultCollapsed": false,
+  "menuTriggerChar": "/",
+  "emojiTriggerChar": ":"
+}

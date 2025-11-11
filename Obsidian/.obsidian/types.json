@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "published": "text",
+    "Моточасы": "number",
+    "Доп. свойства": "multitext",
+    "Ссылки": "multitext",
+    "Категория": "multitext",
+    "Внешняя ссылка": "multitext",
+    "Источник": "multitext"
+  }
+}

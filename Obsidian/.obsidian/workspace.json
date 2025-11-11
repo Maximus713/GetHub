@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "dffef580cef473b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3ad07674ce0c48c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8cadf74ed2f5da0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Базы в Обсидиан.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Базы в Обсидиан"
+            }
+          },
+          {
+            "id": "5cf51e5d981faffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вклады.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Вклады"
+            }
+          },
+          {
+            "id": "7a564fa8e5a8e73d",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Без названия.base",
+                "viewName": "Таблица"
+              },
+              "icon": "lucide-table",
+              "title": "Без названия"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6e425284762cf43",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b01d03ca58793cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff1a80df9c0736c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a0b98f34608ed881",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"Ссылки\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b836256a8dc3cc52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "3c44750e7984077e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bf39cf7a4809f87",
+    "type": "split",
+    "children": [
+      {
+        "id": "a186648d845d4683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5c32bd795a4d17a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Вклады.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Вклады"
+            }
+          },
+          {
+            "id": "532ec133b1170b23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Стратегия продвижения группы ВК.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Стратегия продвижения группы ВК"
+            }
+          },
+          {
+            "id": "3b019b92f0853c30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": "комп"
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "051e887ca38a0fef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "2c73a5c2ed2bd81e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Вклады.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Вклады"
+            }
+          },
+          {
+            "id": "e5af7441b3e1f7af",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "19dd55df9e132f0a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "6c7a403eb9724ccd",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Вклады.md"
+              },
+              "icon": "lucide-info",
+              "title": "Свойства файла для Вклады"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "workspaces:Пространства": false,
+      "dbfolder:Create a new database table": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5cf51e5d981faffb",
+  "lastOpenFiles": [
+    "Свойства.md",
+    "Базы в Обсидиан.md",
+    "Без названия.base",
+    "База знаний/Подбор комплектующих для компьютера.md",
+    "Базы данных/База данных Техника.base",
+    "Вклады.md",
+    "База знаний/Компьютер.md",
+    "База знаний/Блок питания для компьютера.md",
+    "База знаний/Процессор.md",
+    "База знаний/Оперативная память.md",
+    "База знаний/Кулер.md",
+    "База знаний/Материнская плата.md",
+    "База знаний/020_БИЗНЕС.md",
+    "База знаний/IT.md",
+    "База знаний/030_ТЕХНИКА.md",
+    "База знаний/Мото-техника.md",
+    "База знаний/000_Меню.md",
+    "Базы данных/Основная база.base",
+    "Базы данных/Untitled 2.md",
+    "Базы данных/Untitled 1.md",
+    "Базы данных/Untitled.md",
+    "База знаний/Что это.md",
+    "База знаний/Untitled.md",
+    "Шаблоны/Цель статьи.md",
+    "Базы данных/Документ 1.md",
+    "База знаний/Выбор видеокарты.md",
+    "База знаний/Без названия.base",
+    "База знаний/Пласт.md",
+    "Untitled database.md",
+    "Базы данных/Папка для теста",
+    "Базы данных",
+    "Ford Formula S",
+    "Clippings",
+    "База знаний/Холст Этапы воронки продаж.canvas",
+    "База знаний/Схема контент стратегия.canvas",
+    "_Исходники/Pasted image 20230112104535.jpg"
+  ]
+}

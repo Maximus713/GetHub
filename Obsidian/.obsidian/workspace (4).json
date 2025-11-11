@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "2d810f349b45ebd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e6c5ddb6cdb4f3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29324c153a9fabcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Что такое хорошая фотография, какие критерии.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "461554f597349c42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Основные смыслы контента для вовлечения в группу.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdfa6df61da38e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Значение фотографии в современном мире.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9564f9174b50d6db",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0011cee25f483c5",
+        "type": "tabs",
+        "dimension": 56.44230769230769,
+        "children": [
+          {
+            "id": "c794e5dae53857c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b42863a01da0357e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Контент",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2182fdadb8010c78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7f45b70c9c16dfdc",
+        "type": "tabs",
+        "dimension": 43.55769230769231,
+        "children": [
+          {
+            "id": "54fbcd9c802cd3de",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "right": {
+    "id": "56c6c9f7b3bfb530",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2812d4dd776d11e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d2c91ed2e75b23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Что такое хорошая фотография, какие критерии.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e1502c8314998817",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Что такое хорошая фотография, какие критерии.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7523c32d3a2068a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2569dc8c8818de65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Что такое хорошая фотография, какие критерии.md"
+              }
+            }
+          },
+          {
+            "id": "89c7e6b05a599909",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "75193b2f50a866ed",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cbd709aecf86366",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "workspaces:Пространства": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "29324c153a9fabcb",
+  "lastOpenFiles": [
+    "База знаний/Продвижение бренда.md",
+    "База знаний/Бренд.md",
+    "База знаний/Задачи контента.md",
+    "База знаний/Контент.md",
+    "База знаний/Контент стратегия.md",
+    "Что такое хорошая фотография, какие критерии.md",
+    "Философия сообщества 'Фотопрактика'.md",
+    "База знаний/Значение фотографии в современном мире.md",
+    "Общий контент план.md",
+    "База знаний/О чем этот блог и для кого.md",
+    "База знаний/Основные смыслы контента для вовлечения в группу.md",
+    "База знаний/Контент план.md",
+    "Мотивирующие статьи.md",
+    "База знаний/Стратегия контент маркетинга.md",
+    "База знаний/Контент маркетинг.md",
+    "Как технический прогресс повлиял на фотографию.md",
+    "База знаний/О нас.md",
+    "Политика конфиденциальности.md",
+    "База знаний/Сайт фото - школы.md",
+    "База знаний/Сбор материала для макета сайта фото - школы.md",
+    "База знаний/Сайт фото - школы страница О нас.md",
+    "Сайт фотошколы.md",
+    "База знаний/Экспертный контент.md",
+    "База знаний/ChatGPT для SEO.md",
+    "База знаний/Целевая Аудитория.md",
+    "База знаний/Запрос контент плана.md",
+    "База знаний/Схема контент стратегия.canvas",
+    "Шаблоны/Шаблоны цветов.md.terabox.uploading.cfg",
+    "Шаблоны/Шаблон ZK.md.terabox.uploading.cfg",
+    "Шаблоны/Фотографы.md.terabox.uploading.cfg",
+    "Шаблоны/Теги бизнес.md.terabox.uploading.cfg",
+    "Шаблоны/План написания статей.md.terabox.uploading.cfg",
+    "Шаблоны/Заметка с линиями.md.terabox.uploading.cfg",
+    "Стили текста ChatGPT.md.terabox.uploading.cfg",
+    "Стили и литературные жанры ChatGpt.md.terabox.uploading.cfg",
+    "Перенос домена.md.terabox.uploading.cfg",
+    "Мать всех запросов.md.terabox.uploading.cfg",
+    "_Исходники/Pasted image 20231101102113.png",
+    "_Исходники/Pasted image 20231031214028.png",
+    "_Исходники/Pasted image 20231031213919.png",
+    "База знаний/Схема, переупаковка контента.canvas",
+    "Схема, точки роста каналов дистрибуции.canvas",
+    "База знаний/Холст Этапы воронки продаж.canvas",
+    "База знаний/Холст промт.canvas",
+    "Без названия 1.canvas",
+    "База знаний/Холст_План видео.canvas",
+    "База знаний/Холст Схемы видео сценариев.canvas",
+    "База знаний/Холст_Welcome Chain + Product grid.canvas",
+    "База знаний/Тестовый холст.canvas"
+  ]
+}
