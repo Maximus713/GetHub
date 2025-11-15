@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -253,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,12 +271,12 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "1fadef72fb91f66d",
+  "active": "3c44750e7984077e",
   "lastOpenFiles": [
+    "База знаний/Windows.md",
+    "База знаний/Windows.md",
     "База знаний/Установка windows 11.md",
     "Базы в Обсидиан.md",
-    "База знаний/Windows (копия с компьютера DESKTOP-7CQ8EG2).md",
-    "База знаний/Windows.md",
     "Базы данных/Основная база.base",
     "База знаний/Lightroom.md",
     "База знаний/Компьютер (копия с компьютера DESKTOP-7CQ8EG2).md",
