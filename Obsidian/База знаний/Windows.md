@@ -1,8 +1,13 @@
+#Windows 
+
 nsat2001@mail.ru
 QW505az89
 
 max3971@mail.ru
 WQ505sd71
+
+[[Создание загрузочной флешки Rufus]]
+
 
 [Windows 11](https://www.microsoft.com/ru-ru/software-download/windows11)
 
@@ -16,3 +21,8 @@ WQ505sd71
 - В программах выбрать - Acronis True.
 - Восстановление системы.
 
+[[Windows на мамин ноут]]
+
+[[Установка программ]]
+
+[[Включение службы безопасности]]
