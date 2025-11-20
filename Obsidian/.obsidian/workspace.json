@@ -8,37 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8cadf74ed2f5da0",
+            "id": "38bcec900f9f1504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базы в Обсидиан.md",
+                "file": "Промт (запрос) для Grok.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Базы в Обсидиан"
+              "title": "Промт (запрос) для Grok"
             }
           },
           {
-            "id": "5cf51e5d981faffb",
+            "id": "d2c50015a7a0fa8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Windows.md",
+                "file": "DeepSeek.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Windows"
+              "title": "DeepSeek"
+            }
+          },
+          {
+            "id": "0aa7c4c35e43d38e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Упражнения на развитие наблюдательности.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Упражнения на развитие наблюдательности"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wind",
+                "query": "04",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,6 +118,16 @@
           },
           {
             "id": "a912b6bce77429a9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          },
+          {
+            "id": "4eabbb56789b0899",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -229,19 +254,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Вклады.md"
+                "file": "Упражнения на развитие наблюдательности.md"
               },
               "icon": "lucide-info",
-              "title": "Свойства файла для Вклады"
+              "title": "Свойства файла для Упражнения на развитие наблюдательности"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,36 +282,37 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "5cf51e5d981faffb",
+  "active": "0aa7c4c35e43d38e",
   "lastOpenFiles": [
-    "База знаний/Windows на мамин ноут.md",
-    "База знаний/Windows.md",
-    "База знаний/Установка программ.md",
-    "Базы данных/Основная база.base",
-    "База знаний/Включение службы безопасности.md",
-    "База знаний/Отключение службы безопасности.md",
-    "База знаний/Создание загрузочной флешки Rufus.md",
-    "Шаблоны/Шаблоны цветов.md",
-    "Базы в Обсидиан.md",
-    "База знаний/Rufus.md",
-    "База знаний/Rufes.md",
-    "База знаний/Установка windows 11.md",
+    "Упражнения на развитие наблюдательности.md",
+    "DeepSeek.md",
+    "Шаблоны/Шаблон свойства основной.md",
+    "Промт (запрос) для Grok.md",
+    "База знаний/Запросы (Promt) для ChatGPT.md",
     "База знаний/Lightroom.md",
-    "База знаний/Компьютер (копия с компьютера DESKTOP-7CQ8EG2).md",
-    "База знаний/Восстановление системы Windows.md",
-    "Настройка фотошоп (Photoshop).md",
-    "Вклады.md",
-    "Настройка компьютера.md",
+    "Базы в Обсидиан.md",
+    "Тест шаблона свойства.md",
+    "База знаний/Техника.md",
+    "База знаний/Фото.md",
+    "База знаний/БИЗНЕС.md",
+    "Шаблоны/Шаблон свойства пустой.md",
+    "Шаблон свойства.md",
+    "Проверка шаблона.md",
+    "Проверка шаблона свойства.md",
+    "Шаблоны/Шаблон записи со свойствами.md",
+    "Тест шаблона.md",
+    "Шаблоны/Шаблон тест 2.md",
+    "Шаблоны/Проект1.md",
+    "База знаний/Мать всех запросов.md",
+    "База знаний/Запрос - подсказка -- как нужно составить promt.md",
+    "Шаблон тест выпадающих списков.md",
+    "Без названия 1.md",
+    "База знаний/Варианты постановки задач для ChatGPT.md",
+    "База знаний/Эмоциональная фотография.md",
+    "База знаний/Windows.md",
+    "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
-    "База знаний/Подбор комплектующих для компьютера.md",
-    "База знаний/Блок питания для компьютера.md",
     "Без названия.base",
-    "Свойства.md",
-    "База знаний/Компьютер.md",
-    "База знаний/Процессор.md",
-    "База знаний/Оперативная память.md",
-    "База знаний/Кулер.md",
-    "База знаний/Материнская плата.md",
     "База знаний/Без названия.base",
     "Базы данных/Папка для теста",
     "Базы данных",

@@ -4,11 +4,16 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "published": "text",
-    "Моточасы": "number",
-    "Доп. свойства": "multitext",
-    "Ссылки": "multitext",
+    "Источник": "multitext",
+    "Category": "multitext",
+    "Link": "multitext",
+    "Date": "date",
+    "Сфера": "multitext",
+    "Sfera": "multitext",
+    "links": "multitext",
+    "Тегги": "multitext",
     "Категория": "multitext",
-    "Внешняя ссылка": "multitext",
-    "Источник": "multitext"
+    "Дата": "date",
+    "Похожее": "multitext"
   }
 }
