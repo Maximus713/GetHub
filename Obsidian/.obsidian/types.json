@@ -14,6 +14,7 @@
     "Тегги": "multitext",
     "Категория": "multitext",
     "Дата": "date",
-    "Похожее": "multitext"
+    "Похожее": "multitext",
+    "Ссылки": "multitext"
   }
 }
