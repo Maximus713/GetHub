@@ -5,5 +5,8 @@
   "translucency": false,
   "cssTheme": "",
   "accentColor": "#1ca3b5",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "highlightr-text-color"
+  ]
 }

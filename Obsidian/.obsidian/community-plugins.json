@@ -17,5 +17,7 @@
   "obsidian-languagetool-plugin",
   "dbfolder",
   "dataview",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-text-format",
+  "fast-text-color"
 ]
