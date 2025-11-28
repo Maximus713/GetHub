@@ -4,138 +4,118 @@
     "type": "split",
     "children": [
       {
-        "id": "e3ad07674ce0c48c",
+        "id": "1b16e220af29f578",
         "type": "tabs",
         "children": [
           {
-            "id": "b92f6c98639e0734",
+            "id": "d339c15694fd796d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Общий и логически упорядоченный список тем для постов.md",
+                "file": "Загородный дом для продажи.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Общий и логически упорядоченный список тем для постов"
+              "title": "Загородный дом для продажи"
             }
           },
           {
-            "id": "301f0a80b13748d7",
+            "id": "72f972389355e38d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Промт для stable-diffusion.md",
+                "file": "Загородный дом для продажи.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Промт для stable-diffusion"
+              "title": "Загородный дом для продажи"
             }
           },
           {
-            "id": "20737fc4d6c6aaff",
+            "id": "84f07a59aee47536",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Что мы теряем, когда снимаем «как получится» Версия ChatGpt_2.md",
+                "file": "Текст для страницы портфолио.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Что мы теряем, когда снимаем «как получится» Версия ChatGpt_2"
-            }
-          },
-          {
-            "id": "5aefc6f617e878cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Стратегическое планирование контента.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Стратегическое планирование контента"
-            }
-          },
-          {
-            "id": "f93884182511135c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Параметры генерации.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Параметры генерации"
-            }
-          },
-          {
-            "id": "251dc42d0d6172dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Удалить.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Удалить"
+              "title": "Текст для страницы портфолио"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
-        "id": "46dba1cbb685d6ae",
+        "id": "52c3171ae3179f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "25bd2b64451e75d5",
+            "id": "9c915e91bc8cc092",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний/Что мы теряем, когда снимаем «как получится» Версия Deepseek.md",
+                "file": "KSampler.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Что мы теряем, когда снимаем «как получится» Версия Deepseek"
+              "title": "KSampler"
             }
           },
           {
-            "id": "fb4504f58e594f7b",
+            "id": "1a55baee883861dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LORA.md",
+                "file": "ComfyUI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LORA"
+              "title": "ComfyUI"
+            }
+          },
+          {
+            "id": "294ce6d689870fae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знаний/Ноды ComfyUI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ноды ComfyUI"
+            }
+          },
+          {
+            "id": "b1e1a35be05ef185",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:ComfyUI",
+                "query": "rerout",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -336,7 +316,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "иску"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -365,34 +345,34 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "f93884182511135c",
+  "active": "a0b98f34608ed881",
   "lastOpenFiles": [
-    "Промт для stable-diffusion и ComfyUI.md",
-    "Модели для stable-diffusion и ComfyUI.md",
-    "LORA.md",
+    "Создание схем в ComfyUI.md",
+    "База знаний/Ноды ComfyUI.md",
+    "ComfyUI.md",
+    "Фотосъемка Квартира 800 лет Москвы.md",
+    "Текст для страницы портфолио.md",
+    "Шаблоны/Шаблон-анкета для фотосъемки интерьера.md",
+    "Загородный дом для продажи.md",
+    "Шаблоны/План написания статей.md",
+    "KSampler.md",
+    "Съемка загородного дома для продажи.md",
+    "Символическая ссылка.md",
+    "Бар Craft station.md",
+    "Фото съемка загородного дома.md",
+    "Стратегия генерации изображения.md",
+    "База знаний/Шаблон.md",
     "Создание персонажа.md",
-    "Удалить_1.md",
-    "Параметры генерации.md",
-    "Негативный запрос (промт).md",
-    "База знаний/Что мы теряем, когда снимаем «как получится» Версия Deepseek.md",
+    "Модели для stable-diffusion и ComfyUI.md",
+    "Промт для stable-diffusion и ComfyUI.md",
+    "SSD Samsung 980 NVMe M.2.md",
     "База знаний/Что мы теряем, когда снимаем «как получится» Версия ChatGpt_2.md",
-    "База знаний/Что мы теряем, когда снимаем «как получится» Версия ChatGpt.md",
-    "Удалить.md",
-    "База знаний/Что мы теряем, когда снимаем «как получится».md",
-    "База знаний/Нужно стремиться создавать только отличные кадры.md",
-    "База знаний/Общий и логически упорядоченный список тем для постов.md",
-    "База знаний/Главная стратегия привлечения подписчиков.md",
-    "Стратегическое планирование контента.md",
-    "Тест плагина.md",
+    "Шаблоны/Шаблон свойства основной.md",
+    "Шаблоны/Шаблоны цветов.md",
+    "Шаблоны/Шаблон ZK.md",
+    "Шаблоны/Шаблон статьи для ВК.md",
     "Шаблоны/Шаблон для статей.md",
-    "Шаблоны/Шаблон для статьи пустой.md",
-    "База знаний/Почему фотография важна каждому человеку, даже если он не фотограф.md",
-    "База знаний/Почему умение фотографировать необходимо каждому.md",
-    "База знаний/000_Меню.md",
-    "База знаний/Бизнес.md",
-    "База знаний/Отборные темы постов для контент-плана.md",
-    "База знаний/Начальный 60-дневный контент-план.md",
-    "База знаний/90-дневный контент-план.md",
+    "Шаблоны/Шаблон статьи.md",
     "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
     "Без названия.base",
