@@ -4,118 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "1b16e220af29f578",
+        "id": "8c8ac78ffc1e0ce4",
         "type": "tabs",
         "children": [
           {
-            "id": "d339c15694fd796d",
+            "id": "1eb22b7ee7823d8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Загородный дом для продажи.md",
+                "file": "Шаблоны/Шаблон с вопросами для статей портфолио.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Загородный дом для продажи"
+              "title": "Шаблон с вопросами для статей портфолио"
             }
           },
           {
-            "id": "72f972389355e38d",
+            "id": "8ec4f3a81a276bbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Загородный дом для продажи.md",
+                "file": "Шаблоны/Шаблон с вопросами для статей портфолио.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Загородный дом для продажи"
-            }
-          },
-          {
-            "id": "84f07a59aee47536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Текст для страницы портфолио.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Текст для страницы портфолио"
+              "title": "Шаблон с вопросами для статей портфолио"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "52c3171ae3179f7d",
+        "id": "a3df6b939bd642d7",
         "type": "tabs",
         "children": [
           {
-            "id": "9c915e91bc8cc092",
+            "id": "0ad9b11fe16f19b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KSampler.md",
+                "file": "Квартира на улице Столетова.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "KSampler"
+              "title": "Квартира на улице Столетова"
             }
           },
           {
-            "id": "1a55baee883861dd",
+            "id": "675175108bf58412",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComfyUI.md",
+                "file": "Задать вопрос Чату..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ComfyUI"
-            }
-          },
-          {
-            "id": "294ce6d689870fae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Ноды ComfyUI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ноды ComfyUI"
-            }
-          },
-          {
-            "id": "b1e1a35be05ef185",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Задать вопрос Чату."
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -345,34 +304,34 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "a0b98f34608ed881",
+  "active": "0ad9b11fe16f19b4",
   "lastOpenFiles": [
-    "Создание схем в ComfyUI.md",
-    "База знаний/Ноды ComfyUI.md",
-    "ComfyUI.md",
-    "Фотосъемка Квартира 800 лет Москвы.md",
-    "Текст для страницы портфолио.md",
+    "Шаблоны/Шаблон с вопросами для статей портфолио.md",
+    "Квартира на улице Столетова.md",
+    "Задать вопрос Чату..md",
+    "Ожидания дизайнера и цели интерьерной фотосъемки.md",
+    "Квартира на ул. Генерала Карбышева.md",
     "Шаблоны/Шаблон-анкета для фотосъемки интерьера.md",
-    "Загородный дом для продажи.md",
-    "Шаблоны/План написания статей.md",
     "KSampler.md",
+    "ComfyUI.md",
+    "База знаний/Ноды ComfyUI.md",
+    "Загородный дом для продажи.md",
+    "База знаний/Шаблон.md",
+    "Текст для страницы портфолио.md",
+    "Создание схем в ComfyUI.md",
+    "Фотосъемка Квартира 800 лет Москвы.md",
+    "Шаблоны/План написания статей.md",
     "Съемка загородного дома для продажи.md",
     "Символическая ссылка.md",
     "Бар Craft station.md",
     "Фото съемка загородного дома.md",
     "Стратегия генерации изображения.md",
-    "База знаний/Шаблон.md",
     "Создание персонажа.md",
     "Модели для stable-diffusion и ComfyUI.md",
     "Промт для stable-diffusion и ComfyUI.md",
     "SSD Samsung 980 NVMe M.2.md",
     "База знаний/Что мы теряем, когда снимаем «как получится» Версия ChatGpt_2.md",
     "Шаблоны/Шаблон свойства основной.md",
-    "Шаблоны/Шаблоны цветов.md",
-    "Шаблоны/Шаблон ZK.md",
-    "Шаблоны/Шаблон статьи для ВК.md",
-    "Шаблоны/Шаблон для статей.md",
-    "Шаблоны/Шаблон статьи.md",
     "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
     "Без названия.base",
