@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сайт ledgreen.ru.md",
+                "file": "Лендинг LedGreen.ru.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Сайт ledgreen.ru"
+              "title": "Лендинг LedGreen.ru"
             }
           }
         ],
@@ -65,13 +65,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лендинг LedGreen.ru.md",
+                "file": "Секция 1 - Hero-банер (Внимание).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Лендинг LedGreen.ru"
+              "title": "Секция 1 - Hero-банер (Внимание)"
             }
           }
         ]
@@ -306,10 +306,11 @@
   },
   "active": "24cad92775899949",
   "lastOpenFiles": [
-    "Сайт ledgreen.ru.md",
-    "Продвижение LedGreenBox.md",
     "Лендинг LedGreen.ru.md",
+    "Сайт ledgreen.ru.md",
+    "Секция 1 - Hero-банер (Внимание).md",
     "Этапы создания сайта LedGreen.ru.md",
+    "Продвижение LedGreenBox.md",
     "Как собрать LedGreenbox.md",
     "Темы видеороликов LedGreenBox.md",
     "План презентации комплекта освещения LedGreenBox.md",
@@ -331,7 +332,6 @@
     "Съемка загородного дома для продажи.md",
     "Символическая ссылка.md",
     "Бар Craft station.md",
-    "Фото съемка загородного дома.md",
     "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
     "Без названия.base",

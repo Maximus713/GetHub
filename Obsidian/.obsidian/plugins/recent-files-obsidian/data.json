@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Секция 1 - Hero-банер (Внимание)",
+      "path": "Секция 1 - Hero-банер (Внимание).md"
+    },
+    {
       "basename": "Лендинг LedGreen.ru",
       "path": "Лендинг LedGreen.ru.md"
     },
@@ -9,12 +13,12 @@
       "path": "Сайт ledgreen.ru.md"
     },
     {
-      "basename": "Продвижение LedGreenBox",
-      "path": "Продвижение LedGreenBox.md"
-    },
-    {
       "basename": "Этапы создания сайта LedGreen.ru",
       "path": "Этапы создания сайта LedGreen.ru.md"
+    },
+    {
+      "basename": "Продвижение LedGreenBox",
+      "path": "Продвижение LedGreenBox.md"
     },
     {
       "basename": "Как собрать LedGreenbox",
@@ -195,10 +199,6 @@
     {
       "basename": "Почему умение фотографировать необходимо каждому",
       "path": "База знаний/Почему умение фотографировать необходимо каждому.md"
-    },
-    {
-      "basename": "000_Меню",
-      "path": "База знаний/000_Меню.md"
     }
   ],
   "omittedPaths": []
