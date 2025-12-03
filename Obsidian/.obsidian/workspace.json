@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лендинг LedGreen.ru.md",
+                "file": "Секция 2 - Проблема (боль покупателя).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Лендинг LedGreen.ru"
+              "title": "Секция 2 - Проблема (боль покупателя)"
             }
           }
         ],
@@ -65,13 +65,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СЕКЦИЯ 3 - «Что такое LedGreen box».md",
+                "file": "Секция 4 - Решение ( Продукт LedGreen Box).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "СЕКЦИЯ 3 - «Что такое LedGreen box»"
+              "title": "Секция 4 - Решение ( Продукт LedGreen Box)"
             }
           }
         ]
@@ -306,11 +306,11 @@
   },
   "active": "24cad92775899949",
   "lastOpenFiles": [
-    "Лендинг LedGreen.ru.md",
-    "СЕКЦИЯ 3 - «Что такое LedGreen box».md",
-    "Секция 4 - Решение ( Продукт LedGreen Box).md",
     "Секция 2 - Проблема (боль покупателя).md",
+    "Лендинг LedGreen.ru.md",
     "Секция 1 - Hero-банер (Внимание).md",
+    "Секция 4 - Решение ( Продукт LedGreen Box).md",
+    "СЕКЦИЯ 3 - «Что такое LedGreen box».md",
     "Концепция LedGreen Box.md",
     "Сайт ledgreen.ru.md",
     "Этапы создания сайта LedGreen.ru.md",
