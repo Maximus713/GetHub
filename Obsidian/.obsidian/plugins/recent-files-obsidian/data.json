@@ -1,44 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "СЕКЦИЯ 5 - ДОКАЗАТЕЛЬСТВА (ЖЕЛАНИЕ)",
-      "path": "СЕКЦИЯ 5 - ДОКАЗАТЕЛЬСТВА (ЖЕЛАНИЕ).md"
+      "basename": "Структура страницы - О системе",
+      "path": "Структура страницы - О системе.md"
     },
     {
-      "basename": "Лендинг LedGreen.ru",
-      "path": "Лендинг LedGreen.ru.md"
+      "basename": "Преимущества LedGreen Box",
+      "path": "Преимущества LedGreen Box.md"
+    },
+    {
+      "basename": "LedGreenBox",
+      "path": "База знаний/LedGreenBox.md"
+    },
+    {
+      "basename": "Видеоролик о системе LedGreen Box",
+      "path": "Видеоролик о системе LedGreen Box.md"
+    },
+    {
+      "basename": "Elementor",
+      "path": "Elementor.md"
     },
     {
       "basename": "ТЗ на фото и видео съемку для LedGreen Box",
       "path": "ТЗ на фото и видео съемку для LedGreen Box.md"
     },
     {
-      "basename": "Секция 4 - Решение ( Продукт LedGreen Box)",
-      "path": "Секция 4 - Решение ( Продукт LedGreen Box).md"
+      "basename": "Создание кнопки",
+      "path": "Создание кнопки.md"
+    },
+    {
+      "basename": "Этапы создания сайта LedGreen.ru",
+      "path": "Этапы создания сайта LedGreen.ru.md"
     },
     {
       "basename": "Секция 2 - Проблема (боль покупателя)",
       "path": "Секция 2 - Проблема (боль покупателя).md"
     },
     {
-      "basename": "Секция 1 - Hero-банер (Внимание)",
-      "path": "Секция 1 - Hero-банер (Внимание).md"
+      "basename": "000_Меню",
+      "path": "База знаний/000_Меню.md"
     },
     {
-      "basename": "СЕКЦИЯ 3 - «Что такое LedGreen box»",
-      "path": "СЕКЦИЯ 3 - «Что такое LedGreen box».md"
+      "basename": "Страница - О системе",
+      "path": "Страница - О системе.md"
     },
     {
-      "basename": "Концепция LedGreen Box",
-      "path": "Концепция LedGreen Box.md"
+      "basename": "Сборка LedGreen Box",
+      "path": "Сборка LedGreen Box.md"
+    },
+    {
+      "basename": "Промт для создания чата LedGreen Box",
+      "path": "Промт для создания чата LedGreen Box.md"
+    },
+    {
+      "basename": "Устройство LedGreen Box",
+      "path": "Устройство LedGreen Box.md"
     },
     {
       "basename": "Сайт ledgreen.ru",
       "path": "Сайт ledgreen.ru.md"
     },
     {
-      "basename": "Этапы создания сайта LedGreen.ru",
-      "path": "Этапы создания сайта LedGreen.ru.md"
+      "basename": "Компоненты системы LedGreen Box",
+      "path": "Компоненты системы LedGreen Box.md"
+    },
+    {
+      "basename": "Реализация аккордеона на сайте",
+      "path": "Реализация аккордеона на сайте.md"
+    },
+    {
+      "basename": "Квартира на улице Столетова",
+      "path": "Квартира на улице Столетова.md"
+    },
+    {
+      "basename": "Видео-обзор LedGreen box",
+      "path": "Видео-обзор LedGreen box.md"
+    },
+    {
+      "basename": "Дизайн сайта Ledgreen.ru",
+      "path": "Дизайн сайта Ledgreen.ru.md"
+    },
+    {
+      "basename": "Образцы дизайна сайтов",
+      "path": "Образцы дизайна сайтов.md"
+    },
+    {
+      "basename": "Лендинг LedGreen.ru",
+      "path": "Лендинг LedGreen.ru.md"
+    },
+    {
+      "basename": "Концепция LedGreen Box",
+      "path": "Концепция LedGreen Box.md"
+    },
+    {
+      "basename": "Семантическое ядро Ledgreen.ru",
+      "path": "Семантическое ядро Ledgreen.ru.md"
+    },
+    {
+      "basename": "Секция 1 - Hero-банер (Внимание)",
+      "path": "Секция 1 - Hero-банер (Внимание).md"
+    },
+    {
+      "basename": "Дополнения для Elementor",
+      "path": "База знаний/Дополнения для Elementor.md"
+    },
+    {
+      "basename": "Wordpress удаление редакций",
+      "path": "Wordpress удаление редакций.md"
+    },
+    {
+      "basename": "СЕКЦИЯ 6 - КАК ЭТО РАБОТАЕТ",
+      "path": "СЕКЦИЯ 6 - КАК ЭТО РАБОТАЕТ.md"
+    },
+    {
+      "basename": "СЕКЦИЯ 5 - ДОКАЗАТЕЛЬСТВА (ЖЕЛАНИЕ)",
+      "path": "СЕКЦИЯ 5 - ДОКАЗАТЕЛЬСТВА (ЖЕЛАНИЕ).md"
+    },
+    {
+      "basename": "Секция 4 - Решение ( Продукт LedGreen Box)",
+      "path": "Секция 4 - Решение ( Продукт LedGreen Box).md"
+    },
+    {
+      "basename": "СЕКЦИЯ 3 - «Что такое LedGreen box»",
+      "path": "СЕКЦИЯ 3 - «Что такое LedGreen box».md"
+    },
+    {
+      "basename": "Логотип Ledgreen.ru",
+      "path": "Логотип Ledgreen.ru.md"
     },
     {
       "basename": "Продвижение LedGreenBox",
@@ -55,10 +143,6 @@
     {
       "basename": "План презентации комплекта освещения LedGreenBox",
       "path": "План презентации комплекта освещения LedGreenBox.md"
-    },
-    {
-      "basename": "Квартира на улице Столетова",
-      "path": "Квартира на улице Столетова.md"
     },
     {
       "basename": "Шаблон с вопросами для статей портфолио",
@@ -111,94 +195,6 @@
     {
       "basename": "План написания статей",
       "path": "Шаблоны/План написания статей.md"
-    },
-    {
-      "basename": "Съемка загородного дома для продажи",
-      "path": "Съемка загородного дома для продажи.md"
-    },
-    {
-      "basename": "Символическая ссылка",
-      "path": "Символическая ссылка.md"
-    },
-    {
-      "basename": "Бар Craft station",
-      "path": "Бар Craft station.md"
-    },
-    {
-      "basename": "Стратегия генерации изображения",
-      "path": "Стратегия генерации изображения.md"
-    },
-    {
-      "basename": "Создание персонажа",
-      "path": "Создание персонажа.md"
-    },
-    {
-      "basename": "Модели для stable-diffusion и ComfyUI",
-      "path": "Модели для stable-diffusion и ComfyUI.md"
-    },
-    {
-      "basename": "Промт для stable-diffusion и ComfyUI",
-      "path": "Промт для stable-diffusion и ComfyUI.md"
-    },
-    {
-      "basename": "SSD Samsung 980 NVMe M.2",
-      "path": "SSD Samsung 980 NVMe M.2.md"
-    },
-    {
-      "basename": "Что мы теряем, когда снимаем «как получится» Версия ChatGpt_2",
-      "path": "База знаний/Что мы теряем, когда снимаем «как получится» Версия ChatGpt_2.md"
-    },
-    {
-      "basename": "Шаблон свойства основной",
-      "path": "Шаблоны/Шаблон свойства основной.md"
-    },
-    {
-      "basename": "Шаблон для статей",
-      "path": "Шаблоны/Шаблон для статей.md"
-    },
-    {
-      "basename": "2. Статьи пустой",
-      "path": "Шаблоны/2. Статьи пустой.md"
-    },
-    {
-      "basename": "1. Свойства пустой",
-      "path": "Шаблоны/1. Свойства пустой.md"
-    },
-    {
-      "basename": "Общий контент план",
-      "path": "База знаний/Общий контент план.md"
-    },
-    {
-      "basename": "Зачем учиться фотографировать",
-      "path": "База знаний/Зачем учиться фотографировать.md"
-    },
-    {
-      "basename": "Что мы теряем, когда снимаем «как получится»",
-      "path": "База знаний/Что мы теряем, когда снимаем «как получится».md"
-    },
-    {
-      "basename": "Семплеры",
-      "path": "Семплеры.md"
-    },
-    {
-      "basename": "Общий и логически упорядоченный список тем для постов",
-      "path": "База знаний/Общий и логически упорядоченный список тем для постов.md"
-    },
-    {
-      "basename": "Стратегическое планирование контента",
-      "path": "Стратегическое планирование контента.md"
-    },
-    {
-      "basename": "Запрос на создание изображения",
-      "path": "Запрос на создание изображения.md"
-    },
-    {
-      "basename": "Повышение разрешения Upscale",
-      "path": "Повышение разрешения Upscale.md"
-    },
-    {
-      "basename": "LORA",
-      "path": "LORA.md"
     }
   ],
   "omittedPaths": []

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Квартира на улице Столетова.md",
+                "file": "Структура страницы - О системе.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Квартира на улице Столетова"
+              "title": "Структура страницы - О системе"
             }
           },
           {
@@ -43,38 +43,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СЕКЦИЯ 5 - ДОКАЗАТЕЛЬСТВА (ЖЕЛАНИЕ).md",
+                "file": "Секция 2 - Проблема (боль покупателя).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "СЕКЦИЯ 5 - ДОКАЗАТЕЛЬСТВА (ЖЕЛАНИЕ)"
+              "title": "Секция 2 - Проблема (боль покупателя)"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "721965a5653ae971",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "24cad92775899949",
+            "id": "f4746f9ab0c1ef9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СЕКЦИЯ 5 - ДОКАЗАТЕЛЬСТВА (ЖЕЛАНИЕ).md",
+                "file": "Видеоролик о системе LedGreen Box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "СЕКЦИЯ 5 - ДОКАЗАТЕЛЬСТВА (ЖЕЛАНИЕ)"
+              "title": "Видеоролик о системе LedGreen Box"
+            }
+          },
+          {
+            "id": "a6bb14de4a8b0f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лендинг LedGreen.ru.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Лендинг LedGreen.ru"
+            }
+          },
+          {
+            "id": "1bb54fd4d85a2b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Промт для создания чата LedGreen Box.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Промт для создания чата LedGreen Box"
             }
           }
         ]
+      },
+      {
+        "id": "73cd7319c30f9c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2825fc88b753f20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Создание кнопки.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Создание кнопки"
+            }
+          },
+          {
+            "id": "f604f40f85689da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Преимущества LedGreen Box.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Преимущества LedGreen Box"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rerout",
+                "query": "tag:LedGreenBox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -304,34 +364,34 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "02933790bdb11280",
+  "active": "0ad9b11fe16f19b4",
   "lastOpenFiles": [
-    "Лендинг LedGreen.ru.md",
+    "Преимущества LedGreen Box.md",
+    "База знаний/LedGreenBox.md",
+    "Структура страницы - О системе.md",
+    "Видеоролик о системе LedGreen Box.md",
+    "Elementor.md",
     "ТЗ на фото и видео съемку для LedGreen Box.md",
-    "СЕКЦИЯ 5 - ДОКАЗАТЕЛЬСТВА (ЖЕЛАНИЕ).md",
-    "Секция 4 - Решение ( Продукт LedGreen Box).md",
-    "Секция 2 - Проблема (боль покупателя).md",
-    "Секция 1 - Hero-банер (Внимание).md",
-    "СЕКЦИЯ 3 - «Что такое LedGreen box».md",
-    "Концепция LedGreen Box.md",
-    "Сайт ledgreen.ru.md",
+    "Создание кнопки.md",
+    "Тех задание на фотосъемку LedGreen Box.md",
     "Этапы создания сайта LedGreen.ru.md",
-    "Продвижение LedGreenBox.md",
-    "Как собрать LedGreenbox.md",
-    "Темы видеороликов LedGreenBox.md",
-    "План презентации комплекта освещения LedGreenBox.md",
+    "Секция 2 - Проблема (боль покупателя).md",
+    "База знаний/000_Меню.md",
+    "Страница - О системе.md",
+    "Сборка LedGreen Box.md",
+    "Промт для создания чата LedGreen Box.md",
+    "Устройство LedGreen Box.md",
+    "Сайт ledgreen.ru.md",
+    "Компоненты системы LedGreen Box.md",
+    "Реализация аккордеона на сайте.md",
     "Квартира на улице Столетова.md",
-    "Шаблоны/Шаблон с вопросами для статей портфолио.md",
-    "Ожидания дизайнера и цели интерьерной фотосъемки.md",
-    "Задать вопрос Чату..md",
-    "Квартира на ул. Генерала Карбышева.md",
-    "Шаблоны/Шаблон-анкета для фотосъемки интерьера.md",
-    "KSampler.md",
-    "ComfyUI.md",
-    "База знаний/Ноды ComfyUI.md",
-    "Загородный дом для продажи.md",
-    "База знаний/Шаблон.md",
-    "Текст для страницы портфолио.md",
+    "Видео-обзор LedGreen box.md",
+    "Дизайн сайта Ledgreen.ru.md",
+    "Образцы дизайна сайтов.md",
+    "Лендинг LedGreen.ru.md",
+    "Концепция LedGreen Box.md",
+    "[ColorScheme.Ru.md",
+    "Семантическое ядро Ledgreen.ru.md",
     "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
     "Без названия.base",
