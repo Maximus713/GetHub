@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Структура страницы - О системе.md",
+                "file": "Сайт ledgreen.ru.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Структура страницы - О системе"
+              "title": "Сайт ledgreen.ru"
             }
           },
           {
@@ -124,13 +124,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Преимущества LedGreen Box.md",
+                "file": "Контент план блога Ledgreen.ru.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Преимущества LedGreen Box"
+              "title": "Контент план блога Ledgreen.ru"
             }
           }
         ],
@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:LedGreenBox",
+                "query": "tag:Ledgreen_ru",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -366,9 +366,21 @@
   },
   "active": "0ad9b11fe16f19b4",
   "lastOpenFiles": [
+    "Темы для блога Ledgreen.ru.md",
+    "Контент план блога Ledgreen.ru.md",
+    "Сайт ledgreen.ru.md",
+    "Страница - О системе.md",
+    "SEO ключи для тем блога.md",
+    "Инструкция по сборке LedGreen Box.md",
+    "Устройство LedGreen Box.md",
+    "Сборка LedGreen Box.md",
+    "Как составить иллюстрации.md",
+    "Описание устройства вариант 1.md",
+    "Вопросы и сомнения LedGreen Box.md",
     "Преимущества LedGreen Box.md",
-    "База знаний/LedGreenBox.md",
+    "База знаний/Дополнения для Elementor.md",
     "Структура страницы - О системе.md",
+    "База знаний/LedGreenBox.md",
     "Видеоролик о системе LedGreen Box.md",
     "Elementor.md",
     "ТЗ на фото и видео съемку для LedGreen Box.md",
@@ -377,21 +389,9 @@
     "Этапы создания сайта LedGreen.ru.md",
     "Секция 2 - Проблема (боль покупателя).md",
     "База знаний/000_Меню.md",
-    "Страница - О системе.md",
-    "Сборка LedGreen Box.md",
     "Промт для создания чата LedGreen Box.md",
-    "Устройство LedGreen Box.md",
-    "Сайт ledgreen.ru.md",
     "Компоненты системы LedGreen Box.md",
     "Реализация аккордеона на сайте.md",
-    "Квартира на улице Столетова.md",
-    "Видео-обзор LedGreen box.md",
-    "Дизайн сайта Ledgreen.ru.md",
-    "Образцы дизайна сайтов.md",
-    "Лендинг LedGreen.ru.md",
-    "Концепция LedGreen Box.md",
-    "[ColorScheme.Ru.md",
-    "Семантическое ядро Ledgreen.ru.md",
     "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
     "Без названия.base",

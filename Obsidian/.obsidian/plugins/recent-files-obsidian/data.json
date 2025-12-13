@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Структура страницы - О системе",
-      "path": "Структура страницы - О системе.md"
+      "basename": "Сайт ledgreen.ru",
+      "path": "Сайт ledgreen.ru.md"
+    },
+    {
+      "basename": "Темы для блога Ledgreen.ru",
+      "path": "Темы для блога Ledgreen.ru.md"
+    },
+    {
+      "basename": "Контент план блога Ledgreen.ru",
+      "path": "Контент план блога Ledgreen.ru.md"
+    },
+    {
+      "basename": "Страница - О системе",
+      "path": "Страница - О системе.md"
+    },
+    {
+      "basename": "SEO ключи для тем блога",
+      "path": "SEO ключи для тем блога.md"
+    },
+    {
+      "basename": "Инструкция по сборке LedGreen Box",
+      "path": "Инструкция по сборке LedGreen Box.md"
+    },
+    {
+      "basename": "Устройство LedGreen Box",
+      "path": "Устройство LedGreen Box.md"
+    },
+    {
+      "basename": "Сборка LedGreen Box",
+      "path": "Сборка LedGreen Box.md"
+    },
+    {
+      "basename": "Как составить иллюстрации",
+      "path": "Как составить иллюстрации.md"
+    },
+    {
+      "basename": "Вопросы и сомнения LedGreen Box",
+      "path": "Вопросы и сомнения LedGreen Box.md"
     },
     {
       "basename": "Преимущества LedGreen Box",
       "path": "Преимущества LedGreen Box.md"
+    },
+    {
+      "basename": "Дополнения для Elementor",
+      "path": "База знаний/Дополнения для Elementor.md"
+    },
+    {
+      "basename": "Структура страницы - О системе",
+      "path": "Структура страницы - О системе.md"
     },
     {
       "basename": "LedGreenBox",
@@ -41,24 +85,8 @@
       "path": "База знаний/000_Меню.md"
     },
     {
-      "basename": "Страница - О системе",
-      "path": "Страница - О системе.md"
-    },
-    {
-      "basename": "Сборка LedGreen Box",
-      "path": "Сборка LedGreen Box.md"
-    },
-    {
       "basename": "Промт для создания чата LedGreen Box",
       "path": "Промт для создания чата LedGreen Box.md"
-    },
-    {
-      "basename": "Устройство LedGreen Box",
-      "path": "Устройство LedGreen Box.md"
-    },
-    {
-      "basename": "Сайт ledgreen.ru",
-      "path": "Сайт ledgreen.ru.md"
     },
     {
       "basename": "Компоненты системы LedGreen Box",
@@ -99,10 +127,6 @@
     {
       "basename": "Секция 1 - Hero-банер (Внимание)",
       "path": "Секция 1 - Hero-банер (Внимание).md"
-    },
-    {
-      "basename": "Дополнения для Elementor",
-      "path": "База знаний/Дополнения для Elementor.md"
     },
     {
       "basename": "Wordpress удаление редакций",
@@ -175,26 +199,6 @@
     {
       "basename": "Загородный дом для продажи",
       "path": "Загородный дом для продажи.md"
-    },
-    {
-      "basename": "Шаблон",
-      "path": "База знаний/Шаблон.md"
-    },
-    {
-      "basename": "Текст для страницы портфолио",
-      "path": "Текст для страницы портфолио.md"
-    },
-    {
-      "basename": "Создание схем в ComfyUI",
-      "path": "Создание схем в ComfyUI.md"
-    },
-    {
-      "basename": "Фотосъемка Квартира 800 лет Москвы",
-      "path": "Фотосъемка Квартира 800 лет Москвы.md"
-    },
-    {
-      "basename": "План написания статей",
-      "path": "Шаблоны/План написания статей.md"
     }
   ],
   "omittedPaths": []
