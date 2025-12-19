@@ -8,48 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ad9b11fe16f19b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сайт ledgreen.ru.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Сайт ledgreen.ru"
-            }
-          },
-          {
-            "id": "675175108bf58412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Задать вопрос Чату..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Задать вопрос Чату."
-            }
-          },
-          {
             "id": "02933790bdb11280",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Секция 2 - Проблема (боль покупателя).md",
+                "file": "FAQ для Ledgreen box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Секция 2 - Проблема (боль покупателя)"
+              "title": "FAQ для Ledgreen box"
+            }
+          },
+          {
+            "id": "1b84159bf0c7c821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Установка Elementor Pro.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Установка Elementor Pro"
             }
           },
           {
@@ -104,37 +89,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2825fc88b753f20f",
+            "id": "df1191c1826f3735",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Создание кнопки.md",
+                "file": "Почему рассада вытягивается даже при подсветке.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Создание кнопки"
+              "title": "Почему рассада вытягивается даже при подсветке"
             }
           },
           {
-            "id": "f604f40f85689da8",
+            "id": "56d9b7bdcd144d9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Контент план блога Ledgreen.ru.md",
+                "file": "База знаний/Вводные для промта ChatGPT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Контент план блога Ledgreen.ru"
+              "title": "Вводные для промта ChatGPT"
+            }
+          },
+          {
+            "id": "292d6b72a0597cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FAQ для Ledgreen box.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "FAQ для Ledgreen box"
+            }
+          },
+          {
+            "id": "01e26730f1295f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Стиль текста для чата.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Стиль текста для чата"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -364,34 +379,34 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "0ad9b11fe16f19b4",
+  "active": "02933790bdb11280",
   "lastOpenFiles": [
-    "Темы для блога Ledgreen.ru.md",
-    "Контент план блога Ledgreen.ru.md",
-    "Сайт ledgreen.ru.md",
-    "Страница - О системе.md",
-    "SEO ключи для тем блога.md",
-    "Инструкция по сборке LedGreen Box.md",
-    "Устройство LedGreen Box.md",
-    "Сборка LedGreen Box.md",
-    "Как составить иллюстрации.md",
-    "Описание устройства вариант 1.md",
-    "Вопросы и сомнения LedGreen Box.md",
-    "Преимущества LedGreen Box.md",
-    "База знаний/Дополнения для Elementor.md",
-    "Структура страницы - О системе.md",
-    "База знаний/LedGreenBox.md",
-    "Видеоролик о системе LedGreen Box.md",
-    "Elementor.md",
-    "ТЗ на фото и видео съемку для LedGreen Box.md",
-    "Создание кнопки.md",
-    "Тех задание на фотосъемку LedGreen Box.md",
-    "Этапы создания сайта LedGreen.ru.md",
-    "Секция 2 - Проблема (боль покупателя).md",
-    "База знаний/000_Меню.md",
-    "Промт для создания чата LedGreen Box.md",
-    "Компоненты системы LedGreen Box.md",
-    "Реализация аккордеона на сайте.md",
+    "Из каких материалов сделана конструкция.md",
+    "FAQ для Ledgreen box.md",
+    "Можно ли оставить рассаду без присмотра на несколько дней.md",
+    "Что произойдёт при отключении электричества.md",
+    "Стиль текста для чата.md",
+    "Можно ли задать разную длительность светового дня.md",
+    "Как работает таймер освещения.md",
+    "Что нужно делать каждый день при использовании LedGreen Box.md",
+    "Можно ли использовать систему без автоматизации.md",
+    "Как часто нужно поднимать свет.md",
+    "Как регулируется высота светильников.md",
+    "Нужно ли разбираться в электрике.md",
+    "Сложно ли собрать LedGreen Box самостоятельно.md",
+    "Насколько легко перестраивается система.md",
+    "Что значит «растущая система» на практике.md",
+    "Можно ли менять размеры системы по мере роста рассады.md",
+    "Безопасно ли использовать систему дома.md",
+    "Не перегреваются ли растения под таким светом.md",
+    "Насколько экономичнее эта система по сравнению с обычными лампами.md",
+    "Сколько электроэнергии потребляет LedGreen Box.md",
+    "Можно ли использовать систему для зелени и комнатных растений.md",
+    "Подходит ли LedGreen Box для всех видов растений.md",
+    "Шаблоны/Шаблон для FAQ.md",
+    "Почему на подоконнике сложно вырастить крепкую рассаду.md",
+    "Можно ли добиться такого же эффекта без отражающей плёнки.md",
+    "Чем «световой кокон» отличается от обычной подсветки сверху.md",
     "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
     "Без названия.base",
