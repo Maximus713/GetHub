@@ -14,7 +14,7 @@ tags:
   - ChatGPT
 Ссылки:
   - "[[Сайт ledgreen.ru]]"
-  - "[[Темы для блога Ledgreen.ru]]"
+  - "[[Темы для блога Ledgreen.ru от Chat]]"
 Категория:
 Дата:
 ---
