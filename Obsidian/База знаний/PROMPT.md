@@ -1,4 +1,4 @@
-#Stable_Diffusion #Искусственный_интеллект 
+#Stable_Diffusion #AI 
 
 [[Принцып работы SD]]
 

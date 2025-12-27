@@ -1,4 +1,4 @@
-#Искусственный_интеллект #Stable_Diffusion 
+#AI #Stable_Diffusion 
 
 Что добавлено:
 -  More skin texture - больше текстуры кожи

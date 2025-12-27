@@ -1,4 +1,4 @@
-#Искусственный_интеллект #ChatGPT #Конспект
+#AI #ChatGPT #Конспект
 [Источник](https://www.youtube.com/watch?v=nVtxxvd_4Do)
 
 

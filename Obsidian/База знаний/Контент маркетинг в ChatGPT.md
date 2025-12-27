@@ -1,4 +1,4 @@
-#Искусственный_интеллект #ChatGPT #Конспект #Контент 
+#AI #ChatGPT #Конспект #Контент 
 [Источник](https://www.youtube.com/watch?v=nVtxxvd_4Do)
 
 [[Маркетинговая стратегия от ChatGPT]]

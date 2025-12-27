@@ -1,4 +1,4 @@
-#ChatGPT #Искусственный_интеллект #SEO #Web 
+#ChatGPT #AI #SEO #Web 
 
 [Источник](https://www.youtube.com/watch?v=ygsk7ou5t9k&t=1s)
 [Источник_2](https://www.youtube.com/watch?v=eI2JREOaxgc&t=2s)
