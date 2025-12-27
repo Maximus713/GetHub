@@ -8,129 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e38b9bce4bbd3e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Стратегия сбора семантического ядра.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Стратегия сбора семантического ядра"
-            }
-          },
-          {
-            "id": "37e547dda8cc6b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Промт для создания чата LedGreen Box.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Промт для создания чата LedGreen Box"
-            }
-          },
-          {
-            "id": "ff2ba5d79c352bd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Первичное семантическое ядро Gpt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Первичное семантическое ядро Gpt"
-            }
-          },
-          {
-            "id": "4951ff24d37cc341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Промт для создания чата LedGreen Box.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Промт для создания чата LedGreen Box"
-            }
-          },
-          {
-            "id": "bcad061727c99054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Семантическое ядро.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Семантическое ядро"
-            }
-          },
-          {
-            "id": "df46406f23d46081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Контент план блога Ledgreen.ru.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Контент план блога Ledgreen.ru"
-            }
-          },
-          {
-            "id": "9172fadaea1685ca",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "ae612821d9e8f0b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Темы для блога LedGreen Box от DeepSeek.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Темы для блога LedGreen Box от DeepSeek"
-            }
-          }
-        ],
-        "currentTab": 7
-      },
-      {
-        "id": "73cd7319c30f9c5c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df1191c1826f3735",
+            "id": "7d05a58077f33e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,52 +23,133 @@
             }
           },
           {
-            "id": "63b83e1c249ebb98",
+            "id": "4bf774f6995744d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Семантическое ядро.md",
+                "file": "Как понять, что рассаде не хватает света.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Семантическое ядро"
+              "title": "Как понять, что рассаде не хватает света"
             }
           },
           {
-            "id": "665e4c269bd5ec90",
+            "id": "421e1dc010b3f26a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAQ о свете.md",
+                "file": "Из каких основных модулей состоит LedGreen Box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "FAQ о свете"
+              "title": "Из каких основных модулей состоит LedGreen Box"
             }
           },
           {
-            "id": "5787bdbf2445a6e2",
+            "id": "afcbd0eb6fa3f4bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Калькулятор растений.md",
+                "file": "Удалить.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Калькулятор растений"
+              "title": "Удалить"
+            }
+          },
+          {
+            "id": "6c9e8436f841e4f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Промт для создания чата LedGreen Box.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Промт для создания чата LedGreen Box"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
+      },
+      {
+        "id": "73cd7319c30f9c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37e547dda8cc6b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Промт от FAQ Эталон.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Промт от FAQ Эталон"
+            }
+          },
+          {
+            "id": "1f3c17c09f68f0c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Промт от FAQ Эталон.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Промт от FAQ Эталон"
+            }
+          },
+          {
+            "id": "7c7d2eca1ed029b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шаблон для промта на создание текста.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Шаблон для промта на создание текста"
+            }
+          },
+          {
+            "id": "328d82b17517c80d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Коррекция стиля чата.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Коррекция стиля чата"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 387.5
   },
   "right": {
     "id": "2bf39cf7a4809f87",
@@ -420,34 +379,89 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "665e4c269bd5ec90",
+  "floating": {
+    "id": "5c3368245eb4f8a6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3b88d19c06006015",
+        "type": "window",
+        "children": [
+          {
+            "id": "11244d1dc3cfec65",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7ba9e7b13ed65cba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Стили калькулятора.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Стили калькулятора"
+                }
+              },
+              {
+                "id": "f742294f33942996",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Отобранные темы для блога Ledgreen.ru.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Отобранные темы для блога Ledgreen.ru"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2959,
+        "y": 10,
+        "width": 1108,
+        "height": 1019,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6c9e8436f841e4f6",
   "lastOpenFiles": [
-    "Как организовать подсветку на узком подоконнике.md",
-    "FAQ о свете.md",
-    "Как выбрать готовый стеллаж с подсветкой для рассады.md",
-    "Когда можно прекращать подсветку перед высадкой в грунт.md",
-    "Нужно ли подсвечивать рассаду в марте, апреле, когда световой день длиннее.md",
-    "Нужно ли подсвечивать рассаду в пасмурные дни.md",
-    "Можно ли подсвечивать рассаду ночью.md",
-    "Нужно ли подсвечивать рассаду круглые сутки.md",
-    "Когда включать и выключать подсветку.md",
-    "Сколько часов в день нужно подсвечивать рассаду.md",
-    "Что такое «полный спектр» и зачем он нужен.md",
-    "Можно ли использовать для рассады обычные белые светодиодные лампы.md",
-    "Почему рассада тянется к окну или лампе.md",
-    "Почему рассада вытягивается и тонкая.md",
-    "Какое освещение считается хорошим для рассады.md",
-    "Чем опасен недостаток света для рассады.md",
+    "Промт от FAQ Эталон.md",
+    "Универсальный промт от FAQ эталон.md",
+    "Промт для создания чата LedGreen Box.md",
+    "Скорректированный Промт от FAQ эталон.md",
+    "Шаблон для промта на создание текста.md",
+    "Коррекция стиля чата.md",
+    "Общий список тем для блога LedGreen Box.md",
     "Как понять, что рассаде не хватает света.md",
-    "Можно ли вырастить хорошую рассаду без подсветки.md",
+    "Из каких основных модулей состоит LedGreen Box.md",
+    "Удалить.md",
+    "Как организовать досветку на узком подоконнике.md",
+    "Как досвечивать рассаду перцев и баклажанов.md",
+    "Как долго служат светильники.md",
+    "Почему подсветка на подоконнике почти всегда неэффективна.md",
+    "СТАРТОВЫЙ ПРОМПТ ДЛЯ НОВОГО ЧАТА LEDGREEN BOX.md",
+    "Есть ли инструкция по сборке и эксплуатации LedGreen Box.md",
     "До какого времени (какого возраста) подсвечивать рассаду.md",
-    "Когда нужно начинать подсвечивать рассаду.md",
-    "Зачем подсвечивать рассаду, если есть окно.md",
-    "Нужна ли рассаде дополнительная подсветка.md",
-    "Что делать, если рассада переросла, а света все равно мало.md",
-    "Как подсвечивать зелень (укроп, петрушку, базилик) на подоконнике.md",
-    "Нужно ли досвечивать рассаду капусты.md",
-    "Какой свет нужен для рассады цветов (петунии, лобелии, виолы).md",
+    "Для кого LedGreen Box точно не подойдёт.md",
+    "Для каких культур лучше всего подходит LedGreen Box.md",
+    "Стили калькулятора.md",
+    "Правильная подсветка рассады.md",
+    "Отобранные темы для блога Ledgreen.ru.md",
+    "Почему рассада вытягивается даже при наличии подсветки.md",
+    "Шаблоны/3. Шаблон для статей.md",
+    "Шаблон статьи для блога.md",
+    "Контент план блога Ledgreen.ru.md",
     "Почему рассада тянется к окну",
     "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
