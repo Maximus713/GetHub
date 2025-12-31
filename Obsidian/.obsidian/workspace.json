@@ -8,48 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3329816964122f5f",
+            "id": "8be1d2040c70e06a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Отобранные темы для блога Ledgreen.ru.md",
+                "file": "SYSTEM PROMPT чата по садоводству.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Отобранные темы для блога Ledgreen.ru"
+              "title": "SYSTEM PROMPT чата по садоводству"
             }
           },
           {
-            "id": "6f9584ec04df7500",
+            "id": "fc0c493eabb22d3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дополнение к универсальному пропту.md",
+                "file": "База знаний/Промт - описание стиля текста для чата.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Дополнение к универсальному пропту"
+              "title": "Промт - описание стиля текста для чата"
             }
           },
           {
-            "id": "627a6def0f9622f9",
+            "id": "53b6498f808d76e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фотосток.md",
+                "file": "Структура с добавлением тем о Ledgreen Box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Фотосток"
+              "title": "Структура с добавлением тем о Ledgreen Box"
+            }
+          },
+          {
+            "id": "8f6e8ec0344e3726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТЗ от ChatGpt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ТЗ от ChatGpt"
             }
           }
         ],
@@ -60,97 +75,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37e547dda8cc6b4a",
+            "id": "cadaa7fabd377f36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Скорректированный Промт от FAQ эталон.md",
+                "file": "Разрешения для генерации.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Скорректированный Промт от FAQ эталон"
-            }
-          },
-          {
-            "id": "1f3c17c09f68f0c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Промт от FAQ Эталон.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Промт от FAQ Эталон"
-            }
-          },
-          {
-            "id": "7c7d2eca1ed029b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шаблон для промта на создание текста.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Шаблон для промта на создание текста"
-            }
-          },
-          {
-            "id": "328d82b17517c80d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Коррекция стиля чата.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Коррекция стиля чата"
-            }
-          },
-          {
-            "id": "b739016ceb510035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Отобранные темы для блога Ledgreen.ru.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Отобранные темы для блога Ledgreen.ru"
-            }
-          },
-          {
-            "id": "199f010e5ce384c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Промт для создания чата LedGreen Box.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Промт для создания чата LedGreen Box"
+              "title": "Разрешения для генерации"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Промт",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -233,7 +172,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -379,89 +319,34 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "floating": {
-    "id": "5c3368245eb4f8a6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3b88d19c06006015",
-        "type": "window",
-        "children": [
-          {
-            "id": "11244d1dc3cfec65",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7ba9e7b13ed65cba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Стили калькулятора.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Стили калькулятора"
-                }
-              },
-              {
-                "id": "f742294f33942996",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Отобранные темы для блога Ledgreen.ru.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Отобранные темы для блога Ledgreen.ru"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2959,
-        "y": 10,
-        "width": 1108,
-        "height": 1019,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "627a6def0f9622f9",
+  "active": "53b6498f808d76e7",
   "lastOpenFiles": [
-    "Фотосток.md",
-    "Отобранные темы для блога Ledgreen.ru.md",
-    "Дополнение к универсальному пропту.md",
-    "Почему рассада выглядит слабой, даже если света много.md",
-    "Оптимальные условия для выращивания рассады.md",
+    "Блог LedGreen Box.md",
+    "Структура с добавлением тем о Ledgreen Box.md",
+    "Страницы блоков.md",
+    "План статей о Ledgreen Box.md",
+    "Серия статей о Ledgreen Box.md",
+    "ТЗ от ChatGpt.md",
+    "Удалить.md",
     "Промт для создания чата LedGreen Box.md",
     "Универсальный общий промт GPT.md",
-    "База знаний/LedGreenBox.md",
-    "База знаний/000_Меню.md",
-    "Шаблон для промта на создание текста.md",
-    "Как правильно вырастить рассаду томатов в домашних условиях.md",
-    "Как вырастить рассаду огурцов в домашних условиях.md",
-    "Как в домашних условиях вырастить хорошую рассаду.md",
-    "Как правильно сажать рассаду в домашних условиях.md",
-    "Выращивание рассады в домашних условиях.md",
-    "Общий промт LG от DeepSeek.md",
-    "Характеристики чатов.md",
-    "LedGreen Box - что это за система и для чего она нужна.md",
-    "Общий список тем для блога LedGreen Box.md",
-    "Что такое система освещения для растений и зачем она нужна.md",
-    "Какими лампами подсвечивать рассаду.md",
-    "Можно ли вырастить хорошую рассаду без подсветки.md",
-    "Дополнение к общему промпту.md",
+    "Библиотека промтов.md",
     "Общий промт LG от GPT.md",
-    "Когда включать и выключать подсветку.md",
-    "Какая подсветка нужна рассаде.md",
+    "SYSTEM PROMPT чата по садоводству.md",
+    "Промт тех задание написание статьи для блога.md",
+    "База знаний/Промт - описание стиля текста для чата.md",
+    "Шаблон статьи блога Ledgreen.md",
+    "Первая страница блога Ledgreen адаптированная для сайта.md",
+    "Главная страница блога Ledgreen.md",
+    "Темы четвертого блока.md",
+    "Темы третьего блока.md",
+    "Темы второго блока.md",
+    "Темы первого блока блога.md",
+    "Общий промт LG от DeepSeek.md",
+    "Промпты для генерации изображений растений.md",
+    "ComfyUI.md",
+    "Разрешения для генерации.md",
+    "Настройка ControlNet.md",
     "Почему рассада тянется к окну",
     "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
