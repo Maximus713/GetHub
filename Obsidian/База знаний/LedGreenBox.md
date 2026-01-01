@@ -22,4 +22,4 @@ tags:
 - [[ТЗ на фото и видео съемку для LedGreen Box]]
 - [[Блог LedGreen Box]]
 	- [[Отобранные темы для блога Ledgreen.ru]]
-	- [[Промт для создания чата LedGreen Box]]
+	- [[Промпт для создания чата LedGreen Box]]
