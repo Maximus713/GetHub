@@ -8,48 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8be1d2040c70e06a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Почему «чем ярче свет, тем лучше» — ошибка.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Почему «чем ярче свет, тем лучше» — ошибка"
-            }
-          },
-          {
-            "id": "fc0c493eabb22d3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "База знаний/Промт - описание стиля текста для чата.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Промт - описание стиля текста для чата"
-            }
-          },
-          {
             "id": "53b6498f808d76e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Почему растения «чувствуют» стенки и потолок.md",
+                "file": "Преимущества от DeepSeek.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Почему растения «чувствуют» стенки и потолок"
+              "title": "Преимущества от DeepSeek"
             }
           },
           {
@@ -58,53 +28,53 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Промпт для создания чата LedGreen Box.md",
+                "file": "ТЗ от ChatGpt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Промпт для создания чата LedGreen Box"
+              "title": "ТЗ от ChatGpt"
+            }
+          },
+          {
+            "id": "7871d2f2819224f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Список тем о LedGreen Box.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Список тем о LedGreen Box"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "73cd7319c30f9c5c",
         "type": "tabs",
         "children": [
           {
-            "id": "cadaa7fabd377f36",
+            "id": "097d9734018a3870",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разрешения для генерации.md",
+                "file": "Как Ledgreen box устраняет главную причину вытягивания рассады.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Разрешения для генерации"
-            }
-          },
-          {
-            "id": "b62f8340b9e25220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Удалить.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Удалить"
+              "title": "Как Ledgreen box устраняет главную причину вытягивания рассады"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +157,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -334,34 +303,74 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "8be1d2040c70e06a",
+  "floating": {
+    "id": "57b7ec5503d1d131",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ce6fb9d08d5eb684",
+        "type": "window",
+        "children": [
+          {
+            "id": "5cf7a54d48138888",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fc0c493eabb22d3d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Общий список тем для блога LedGreen Box.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Общий список тем для блога LedGreen Box"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2832,
+        "y": 26,
+        "width": 1064,
+        "height": 992,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7871d2f2819224f4",
   "lastOpenFiles": [
-    "Удалить.md",
-    "Почему «чем ярче свет, тем лучше» — ошибка.md",
-    "Темы статей о Ledgreen Box.md",
-    "Подоконник — плохое место для рассады, объясняем без мифов.md",
-    "Почему рассада вытягивается даже при наличии подсветки.md",
-    "Серия статей о Ledgreen Box.md",
-    "Блог LedGreen Box.md",
-    "Почему растения «чувствуют» стенки и потолок.md",
-    "Промпт для создания чата LedGreen Box.md",
-    "Новые дополнения.md",
-    "Дополнения к универсальному пропту.md",
-    "Универсальный общий промт GPT.md",
-    "План статей о Ledgreen Box.md",
-    "Шаблон запроса на статью по садоводству.md",
-    "База знаний/Промт - описание стиля текста для чата.md",
-    "Разрешения для генерации.md",
-    "Промпт для коррекции Садовод устройство Ledgreen.md",
-    "Замечания к статье.md",
-    "ComfyUI.md",
-    "System Prompt садовод уточнения.md",
-    "SYSTEM PROMPT чата по садоводству.md",
-    "Добавка в SYSTEM PROMPT.md",
-    "Почему крайняя рассада всегда хуже, чем та, что в центре.md",
-    "Почему рассада тянется даже под хорошей лампой.md",
-    "Темы первого блока блога.md",
+    "Порядок в доме весной.md",
+    "Список тем о LedGreen Box.md",
+    "Шаблон для промта на создание текста.md",
+    "LedGreen Box — это готовое решение, а не набор компонентов.md",
+    "Сборка без инструментов.md",
+    "Автоматизация и автономность.md",
+    "Три степени свободы.md",
+    "Как Ledgreen box устраняет главную причину вытягивания рассады.md",
+    "Отражающая поверхность как активный элемент системы.md",
+    "Преимущества от DeepSeek.md",
     "ТЗ от ChatGpt.md",
+    "Как Ledgreen box растет вместе с рассадой.md",
+    "Как Ledgreen box дает предсказуемый и гарантируемый результат.md",
+    "LedGreen Box — не подсветка, полноценная система освещения для растений.md",
+    "Общий список тем для блога LedGreen Box.md",
+    "Отобранные темы для блога Ledgreen.ru.md",
+    "База знаний/LedGreenBox.md",
+    "Промпт для создания чата LedGreen Box.md",
+    "База знаний/000_Меню.md",
+    "КОРРЕКТИРУЮЩИЙ ПРОМПТ ФИКСАЦИИ СТИЛЯ.md",
+    "Основной системный SYSTEM PROMPT GPT.md",
+    "Темы свет для рассады.md",
+    "Специализированные светодиодные фитопрожекторы.md",
+    "Бытовые LED-прожекторы (уличные, для подсветки).md",
+    "Решение проблем садовода.md",
+    "База знаний/Пошаговая технология создания статьи.md",
     "Почему рассада тянется к окну",
     "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
