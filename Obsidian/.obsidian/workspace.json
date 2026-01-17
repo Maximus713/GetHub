@@ -4,77 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "a3df6b939bd642d7",
+        "id": "8ce5a86a518cf316",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "53b6498f808d76e7",
+            "id": "12b1eeed0b52af47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Преимущества от DeepSeek.md",
+                "file": "ТЗ редакция Gpt_3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Преимущества от DeepSeek"
+              "title": "ТЗ редакция Gpt_3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f9c9d58e096e0d50",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "f3ff90961dc642cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           },
           {
-            "id": "7871d2f2819224f4",
+            "id": "e73195db64989c06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LedGreen Box - сборка системы освещения без инструментов.md",
+                "file": "ТЗ с заменой_1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LedGreen Box - сборка системы освещения без инструментов"
-            }
-          },
-          {
-            "id": "517b561f5389e2a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Почему рассада вытягивается и становится тонкой.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Почему рассада вытягивается и становится тонкой"
+              "title": "ТЗ с заменой_1"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "73cd7319c30f9c5c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "097d9734018a3870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LedGreen Box - сборка системы освещения без инструментов.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "LedGreen Box - сборка системы освещения без инструментов"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Промт",
+                "query": "шаблон",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,12 +139,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
-    "collapsed": true
+    "width": 387.5
   },
   "right": {
     "id": "2bf39cf7a4809f87",
@@ -304,74 +286,34 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "floating": {
-    "id": "57b7ec5503d1d131",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ce6fb9d08d5eb684",
-        "type": "window",
-        "children": [
-          {
-            "id": "5cf7a54d48138888",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fc0c493eabb22d3d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Общий список тем для блога LedGreen Box.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Общий список тем для блога LedGreen Box"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2832,
-        "y": 26,
-        "width": 1064,
-        "height": 992,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7871d2f2819224f4",
+  "active": "12b1eeed0b52af47",
   "lastOpenFiles": [
-    "Список тем о LedGreen Box.md",
-    "Автоматизация системы освещения LedGreen Box.md",
-    "LedGreen Box - сборка системы освещения без инструментов.md",
-    "Регулировка освещения в системе LedGreen Box.md",
-    "Шаблон для промта на создание текста.md",
-    "Отражающая поверхность как активный элемент системы.md",
-    "Как Ledgreen box растет вместе с рассадой.md",
-    "Общий список тем для блога LedGreen Box.md",
-    "Почему LedGreen Box дает гарантируемый результат.md",
-    "Как Ledgreen box устраняет причину вытягивания рассады.md",
-    "Какое освещение нужно для рассады.md",
-    "ТЗ от ChatGpt.md",
-    "Почему рассада вытягивается и становится тонкой.md",
-    "Почему рассада вытягивается и тонкая.md",
-    "КОРРЕКТИРУЮЩИЙ ПРОМПТ ФИКСАЦИИ СТИЛЯ.md",
-    "Промпт для создания чата LedGreen Box.md",
-    "Основной системный SYSTEM PROMPT GPT.md",
-    "База знаний/LedGreenBox.md",
-    "База знаний/000_Меню.md",
-    "Ledgreen box - описание системы освещения.md",
-    "Как получить ранний урожай.md",
-    "Ledgreen Box - минимальное потребление электроэнергии.md",
-    "Порядок в доме весной.md",
-    "LedGreen Box — это готовое решение, а не набор компонентов.md",
-    "Преимущества от DeepSeek.md",
-    "Отобранные темы для блога Ledgreen.ru.md",
+    "ТЗ с заменой_1.md",
+    "ТЗ на калькулятор удобрений.md",
+    "ТЗ Концентрация сокращенный.md",
+    "ТЗ Концентрация Deep.md",
+    "Эталонная архитектура плагина.md",
+    "ТЗ редакция Gpt_3.md",
+    "ТЗ Концентрация Gpt 2.md",
+    "ТЗ Концентрация.md",
+    "ТЗ удобрения от DeepSeek-6.md",
+    "ТЗ Кальк_удобр_GPT.md",
+    "ТЗ_5_GPT.md",
+    "ТЗ 4.md",
+    "Требование к чату.md",
+    "Удалить 2.md",
+    "Удалить-2.md",
+    "Описание функций Калькулятора концентрации.md",
+    "ТЗ DeepSeek_1.md",
+    "Удалить_2.md",
+    "Калькулятор удобрений.md",
+    "ТЗ на создание калькулятора удобрений.md",
+    "Шаблоны цветов.md",
+    "Справочные данные удобрения.md",
+    "ТЗ на создание калькулятора GPT.md",
+    "Доработка калькулятора.md",
+    "Стратегия оптимизации работы с чатом.md",
+    "Почему одна лампа — не система освещения.md",
     "Почему рассада тянется к окну",
     "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
