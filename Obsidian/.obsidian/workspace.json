@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8ce5a86a518cf316",
+        "id": "b35e3346ce2ebafb",
         "type": "tabs",
         "dimension": 50,
         "children": [
@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ТЗ редакция Gpt_3.md",
+                "file": "Последовательность коррекции файлов.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ТЗ редакция Gpt_3"
+              "title": "Последовательность коррекции файлов"
             }
           }
         ]
@@ -31,32 +31,36 @@
         "dimension": 50,
         "children": [
           {
-            "id": "f3ff90961dc642cb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "e73195db64989c06",
+            "id": "15ab9ae9a4a7c80d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ТЗ с заменой_1.md",
+                "file": "npk-calculators.php.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ТЗ с заменой_1"
+              "title": "npk-calculators.php"
+            }
+          },
+          {
+            "id": "c05656621df1d9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Коррекция калькулятора.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Коррекция калькулятора"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,34 +290,34 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "12b1eeed0b52af47",
+  "active": "15ab9ae9a4a7c80d",
   "lastOpenFiles": [
-    "ТЗ с заменой_1.md",
-    "ТЗ на калькулятор удобрений.md",
-    "ТЗ Концентрация сокращенный.md",
-    "ТЗ Концентрация Deep.md",
-    "Эталонная архитектура плагина.md",
-    "ТЗ редакция Gpt_3.md",
-    "ТЗ Концентрация Gpt 2.md",
-    "ТЗ Концентрация.md",
-    "ТЗ удобрения от DeepSeek-6.md",
-    "ТЗ Кальк_удобр_GPT.md",
-    "ТЗ_5_GPT.md",
-    "ТЗ 4.md",
-    "Требование к чату.md",
-    "Удалить 2.md",
-    "Удалить-2.md",
-    "Описание функций Калькулятора концентрации.md",
-    "ТЗ DeepSeek_1.md",
-    "Удалить_2.md",
+    "Алгоритм работы с раздельными файлами.md",
+    "concentration-module.php.md",
+    "calculator.js.md",
+    "Shortcode.php.md",
+    "Последовательность коррекции файлов.md",
+    "Стратегия отдельных файлов.md",
+    "AJAX_Handler.php.md",
+    "Data_Adapter.php.md",
     "Калькулятор удобрений.md",
-    "ТЗ на создание калькулятора удобрений.md",
-    "Шаблоны цветов.md",
-    "Справочные данные удобрения.md",
-    "ТЗ на создание калькулятора GPT.md",
-    "Доработка калькулятора.md",
+    "Порядок загрузки чата.md",
+    "Описание результатов.md",
+    "ТЗ калькулятора концентрации_3.md",
+    "ТЗ калькулятора концентрации_old.md",
+    "Вводная для ТЗ.md",
+    "Коррекция калькулятора.md",
+    "Calculation_Engine.php.md",
+    "Стратегия раздельных файлов_2.md",
     "Стратегия оптимизации работы с чатом.md",
-    "Почему одна лампа — не система освещения.md",
+    "Распределение ответственности файлов.md",
+    "Стратегия создания отдельных файлов.md",
+    "Удалить_2.md",
+    "ТЗ на отдельные файлы.md",
+    "Чат настройщик.md",
+    "npk-calculators.php.md",
+    "calculator.css.md",
+    "calculator-template.php.md",
     "Почему рассада тянется к окну",
     "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
