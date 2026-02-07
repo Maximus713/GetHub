@@ -1,0 +1,418 @@
+{
+  "main": {
+    "id": "dffef580cef473b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b35e3346ce2ebafb",
+        "type": "tabs",
+        "dimension": 26.828298887122415,
+        "children": [
+          {
+            "id": "e86932b4e2f3729e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Отчет Стратег_13_сравнение.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Отчет Стратег_13_сравнение"
+            }
+          },
+          {
+            "id": "af0c834a0da5b310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS_4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS_4"
+            }
+          },
+          {
+            "id": "96f07f268531b5dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Журнал работы.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Журнал работы"
+            }
+          },
+          {
+            "id": "674063a668929fd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТЗ_Вариант - 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ТЗ_Вариант - 1"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f9c9d58e096e0d50",
+        "type": "tabs",
+        "dimension": 35.294117647058826,
+        "children": [
+          {
+            "id": "ec0f0119c97d39d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шаблоны/Промпты первичной настройки.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Промпты первичной настройки"
+            }
+          },
+          {
+            "id": "d27807387cab2d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Промпт создания поэтапных ТЗ-Х модуля 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Промпт создания поэтапных ТЗ-Х модуля 2"
+            }
+          },
+          {
+            "id": "c9bd706dce86772c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Важные изменения.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Важные изменения"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e3e656403e87f53",
+        "type": "tabs",
+        "dimension": 37.87758346581876,
+        "children": [
+          {
+            "id": "9c4095c5e9c3ffef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "УНИВЕРСАЛЬНЫЙ ПРОМПТ ДЛЯ ГЛАВНОГО АРХИТЕКТОРА СИСТЕМ РАЗРАБОТКИ.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "УНИВЕРСАЛЬНЫЙ ПРОМПТ ДЛЯ ГЛАВНОГО АРХИТЕКТОРА СИСТЕМ РАЗРАБОТКИ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6e425284762cf43",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b01d03ca58793cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff1a80df9c0736c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a0b98f34608ed881",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Калькулятор",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b836256a8dc3cc52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "3c44750e7984077e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "a912b6bce77429a9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "4eabbb56789b0899",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2bf39cf7a4809f87",
+    "type": "split",
+    "children": [
+      {
+        "id": "a186648d845d4683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5c32bd795a4d17a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Вклады.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Вклады"
+            }
+          },
+          {
+            "id": "532ec133b1170b23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Стратегия продвижения группы ВК.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Стратегия продвижения группы ВК"
+            }
+          },
+          {
+            "id": "051e887ca38a0fef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "2c73a5c2ed2bd81e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "База знаний/Что мы теряем, когда снимаем «как получится» Версия Deepseek.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Что мы теряем, когда снимаем «как получится» Версия Deepseek"
+            }
+          },
+          {
+            "id": "e5af7441b3e1f7af",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "19dd55df9e132f0a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "6c7a403eb9724ccd",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Тест плагина.md"
+              },
+              "icon": "lucide-info",
+              "title": "Свойства файла для Тест плагина"
+            }
+          },
+          {
+            "id": "e72614768deaf155",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 510.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "workspaces:Пространства": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "9c4095c5e9c3ffef",
+  "lastOpenFiles": [
+    "Поэтапное создание плагина.md",
+    "УНИВЕРСАЛЬНЫЙ ПРОМПТ ДЛЯ ГЛАВНОГО АРХИТЕКТОРА СИСТЕМ РАЗРАБОТКИ.md",
+    "Промпт главного архитектора поэтапной разработки.md",
+    "Промпт чата стратега.md",
+    "Калькулятор концентрации.md",
+    "ТЗ_Вариант - 1.md",
+    "Подбор удобрений.md",
+    "Финальная проверка перед кодированием.md",
+    "Шаблон для чата№1.md",
+    "Очередность действий при поэтапном создании плагина.md",
+    "1_Стратегия поэтапного создания плагина.md",
+    "1_Калькулятор удобрений_ред.md",
+    "Требования для промпта чата ТЗ-Х.md",
+    "Исправленный вариант промпта для создания ТЗ.md",
+    "Промпт создания поэтапных ТЗ-Х модуля 2.md",
+    "Ошибки AI.md",
+    "Архитектурные ограничения и правила интерпретации.md",
+    "Эталонная архитектура плагина.md",
+    "Промпт архитектор модуля 2.md",
+    "Исправленный вариант.md",
+    "Шаблоны/Промпты первичной настройки.md",
+    "Пошаговый алгоритм поэтапного создания плагина.md",
+    "ТЗ-1.md",
+    "Промпт для чата ТЗ-1.md",
+    "Промпт для создания поэтапных ТЗ-Х.md",
+    "Какие данные должен получить каждый чат.md",
+    "Почему рассада тянется к окну",
+    "Базы данных/Основная база.base",
+    "Базы данных/База данных Техника.base",
+    "Без названия.base",
+    "База знаний/Без названия.base",
+    "Базы данных/Папка для теста",
+    "Базы данных",
+    "Ford Formula S",
+    "Clippings",
+    "База знаний/Холст Этапы воронки продаж.canvas",
+    "База знаний/Схема контент стратегия.canvas",
+    "_Исходники/Pasted image 20230112104535.jpg"
+  ]
+}
