@@ -6,130 +6,160 @@
       {
         "id": "b35e3346ce2ebafb",
         "type": "tabs",
-        "dimension": 26.828298887122415,
+        "dimension": 31.942789034564957,
         "children": [
-          {
-            "id": "e86932b4e2f3729e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Отчет Стратег_13_сравнение.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Отчет Стратег_13_сравнение"
-            }
-          },
-          {
-            "id": "af0c834a0da5b310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS_4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "CSS_4"
-            }
-          },
           {
             "id": "96f07f268531b5dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Журнал работы.md",
+                "file": "Без названия 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Журнал работы"
+              "title": "Без названия 3"
+            }
+          },
+          {
+            "id": "d5eb4ac914fe3514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Общий промпт_исходных файлов.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Общий промпт_исходных файлов"
+            }
+          },
+          {
+            "id": "81993cff2000dacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "План_модуля_2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "План_модуля_2"
+            }
+          },
+          {
+            "id": "e952b8fc6ae89acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проект_Модуль_2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Проект_Модуль_2"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f9c9d58e096e0d50",
         "type": "tabs",
-        "dimension": 35.294117647058826,
+        "dimension": 35.001986491855384,
         "children": [
           {
-            "id": "ec0f0119c97d39d5",
+            "id": "9e59320657b9a536",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шаблоны/Промпты первичной настройки.md",
+                "file": "Схемы поэтапного создания плагина.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Промпты первичной настройки"
-            }
-          },
-          {
-            "id": "d27807387cab2d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Назначение 3-х прпомптов.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Назначение 3-х прпомптов"
-            }
-          },
-          {
-            "id": "c9bd706dce86772c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Важные изменения.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Важные изменения"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8e3e656403e87f53",
-        "type": "tabs",
-        "dimension": 37.87758346581876,
-        "children": [
-          {
-            "id": "9c4095c5e9c3ffef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Калькулятор удобрений_ред.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "1_Калькулятор удобрений_ред"
+              "title": "Схемы поэтапного создания плагина"
             }
           }
         ]
+      },
+      {
+        "id": "808933a839caa36f",
+        "type": "tabs",
+        "dimension": 33.055224473579656,
+        "children": [
+          {
+            "id": "cf2b77fc01bed224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 4"
+            }
+          },
+          {
+            "id": "308288b213cf3856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инструкция по промпту 6.1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Инструкция по промпту 6.1"
+            }
+          },
+          {
+            "id": "3cb0ffd673aac0b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Промпт для создания чата разработчика системы 5+.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Промпт для создания чата разработчика системы 5+"
+            }
+          },
+          {
+            "id": "9396a5a690f24a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инструкция для системы 9.1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Инструкция для системы 9.1"
+            }
+          }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -360,43 +390,44 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "9c4095c5e9c3ffef",
+  "active": "9e59320657b9a536",
   "lastOpenFiles": [
-    "Требования для промпта чата ТЗ-Х.md",
-    "Назначение 3-х прпомптов.md",
+    "Переход на другой чат 9.1.md",
+    "Схемы поэтапного создания плагина.md",
+    "Проект_Модуль_2.md",
+    "Задание для чата_6.md",
+    "Промпт системы 9.1_вариант_7.md",
+    "Задание для чата_4.2.md",
+    "Инструкция для системы 9.1.md",
+    "input-task-01_кодировка.md",
+    "План_модуля_2.md",
+    "Общий промпт_исходных файлов.md",
+    "Задание для чата 4.md",
+    "Задание для чата_5.md",
+    "Задание для чата_3.md",
+    "Этап_1_модуль_2.md",
+    "Промпты 1-6 схемы 9.1.md",
+    "Промпт_6_9.1.md",
+    "Промпт_5_9.1.md",
+    "Промпт_4_9.1.md",
+    "Промпт_3_9.1.md",
+    "Промпт_2_9.1.md",
     "Подбор удобрений.md",
-    "Поэтапное создание плагина.md",
-    "Калькулятор концентрации.md",
-    "Промпт создания поэтапных ТЗ-Х модуля 2.md",
-    "Промпт архитектор модуля 2.md",
-    "Пошаговая инструкция поэтапного создания плагина.md",
-    "Распределение ролей в поэтапном создании плагина.md",
-    "Графическая схема поэтапного создания плагина.md",
-    "Промпт чата стратега.md",
-    "Промпт для создания поэтапных ТЗ-Х.md",
-    "1_Стратегия поэтапного создания плагина.md",
-    "Очередность действий при поэтапном создании плагина.md",
-    "Промпт для чата ТЗ-1.md",
-    "ТЗ_Вариант - 1.md",
-    "Журнал работы.md",
-    "Финальная проверка перед кодированием.md",
-    "Ошибки AI.md",
-    "Архитектурные ограничения и правила интерпретации.md",
-    "Эталонная архитектура плагина.md",
-    "Шаблоны/Полезное.md",
-    "Чат_ТЗ_2.md",
-    "Чат_ТЗ_1 Промпт_1.md",
-    "Шаблоны/Сравнение вариантов.md",
-    "Промпт на создание ТЗ выбора удобрений.md",
+    "Промпт_1_9.1.md",
+    "Шаблоны/5. Шаблон калькулятор.md",
+    "Схема_5 Поэтапного создания плагина.md",
+    "Промпт системы 9.01_вариант_7.md",
+    "Сравнение систем.md",
+    "assets/js",
+    "assets/css",
+    "assets",
+    "templates",
+    "includes",
     "Почему рассада тянется к окну",
     "Базы данных/Основная база.base",
     "Базы данных/База данных Техника.base",
     "Без названия.base",
     "База знаний/Без названия.base",
-    "Базы данных/Папка для теста",
-    "Базы данных",
-    "Ford Formula S",
-    "Clippings",
     "База знаний/Холст Этапы воронки продаж.canvas",
     "База знаний/Схема контент стратегия.canvas",
     "_Исходники/Pasted image 20230112104535.jpg"
